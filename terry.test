@@ -1,2 +1,2 @@
-'tested this on one public wifi and it works!!
+'tested this on a public wifi near my house and it works!!
 python wifijammer -a F4:BD:9E:3B:CB:25 -c 2

@@ -1,2 +1,2 @@
-'tested on my home SSID and it works!!
-python wifijammer -a 00:0E:DA:DE:24:8E -c 2
+'tested on one one public SSID and it works!!
+python wifijammer -a F4:BD:9E:3B:CB:25 -c 2
